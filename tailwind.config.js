@@ -9,7 +9,7 @@
     },
     extend: {
       colors: {
-        primary: '#3b82f6',
+        primary: '#0f766e',
         secondary: '#64748b',
         dark: '#0f172a',
       },
